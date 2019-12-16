@@ -1,0 +1,22 @@
+[
+	{
+		"caption": "Plugins",
+		"mnemonic": "l",
+		"id": "plugin",
+		"children":
+		[
+			{
+				"id" : "grep",
+				"caption" : "Grep",
+				"command" : "grep",
+				"mnemonic": "G"
+			},
+                        {
+                                "id" : "grepregex",
+                                "caption" : "Grep Regex",
+                                "command" : "grep_reg_ex",
+                                "mnemonic": "R"
+                        }
+		]
+	}
+]
